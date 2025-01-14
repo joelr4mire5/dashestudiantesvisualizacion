@@ -1,0 +1,31 @@
+#,nombre_usuario,direccion_correo_electronico,fecha_hora_envio,nombre_completo,correo_electronico,carrera,cursos_aprobados,promedio_ponderado,estudiaría_otra_carrera:,ambito_trabajo,ingresos_despues_graduacion,anos_experiencia_laboral,herramienta_ia_preferida,Edad,modo_transporte,horas_estudio_extra
+1,Marla Gomez,mgomezh98@gmail.com,2025-01-13 19:51:47,Marla Gomez,mgomezh98@gmail.com,Ciencia de Datos,De 25 a 30 cursos,DE 96 a 100,"Sí, otra área diferente",No laboro,Más de 4001 Dólares,4 a 5 años,ChatGPT,21,"UBER;
+Transporte público (autobús/tren)",De 5 a 10 horas
+2,darryel brown,darryel.brow@ulead.ac.cr,2025-01-13 19:52:41,Darryel Brown Murillo,darryel.brown@ulead.ac.cr,Ciencia de Datos,Más de 31 cursos,De 86 a 90,"Sí, otra área diferente",No laboro,De 1500 a 2000 Dólares,,ChatGPT,20,Transporte público (autobús/tren),De 5 a 10 horas
+3,Stacy Quesada,stacy.quesada@ulead.ac.cr,2025-01-13 19:52:18,Stacy Quesada Wallace,stacy.quesada@ulead.ac.cr,Ciencia de Datos,De 21 a 25 cursos,De 91 a 95,"Sí, área Ingeniería/Tecnología",Sector Privado,De 3500 a 4000 Dólares,3 años,ChatGPT,21,UBER,De 5 a 10 horas
+4,Walter Bonilla,walter.bonilla@ulead.ac.cr,2025-01-13 19:52:26,Walter Bonilla Camacho,walter.bonilla@ulead.ac.cr,Ciencia de Datos,De 21 a 25 cursos,De 86 a 90,"No, no estudiaría otra",Sector Privado,De 3500 a 4000 Dólares,Más de 05 años,Copilot,21,Vehículo propio,De 5 a 10 horas
+5,Sophia Cespedes,sophiacespedes00@gmail.com,2025-01-13 19:52:58,Sophia Céspedes,sophia.cespedes@ulead.ac.cr,Ciencia de Datos,Más de 31 cursos,De 91 a 95,"Sí, Ciencias Empresariales/Comercio;
+Sí, área Ingeniería/Tecnología",No laboro,De 2001 a 2500 Dólares,2 años,ChatGPT,21,"Vehículo prestado;
+UBER",De 11 a 15 horas
+6,Maria Cabezas,macha_cabzu@hotmail.com,2025-01-13 19:52:03,Maria Cabezas Zuñiga,maria.cabezas@ulead.ac.cr,Ciencia de Datos,De 25 a 30 cursos,De 91 a 95,,,,,,18,,
+7,Abby Calderon,abigailcquiros16@gmail.com,2025-01-13 19:52:31,Abigail Calderon Quiros,abigail.calderon@ulead.ac.cr,Ciencia de Datos,Más de 31 cursos,De 91 a 95,"Sí, área Ingeniería/Tecnología",Sector Privado,De 2001 a 2500 Dólares,1 año,ChatGPT,21,"UBER;
+Transporte público (autobús/tren)",De 5 a 10 horas
+8,Christian Marin,christianmarin47@gmail.com,2025-01-13 19:51:30,Christian Marin Martinez,christian.marin@ulead.ac.cr,Ciencia de Datos,De 25 a 30 cursos,De 91 a 95,"No, no estudiaría otra",Sector Privado,De 3500 a 4000 Dólares,Más de 05 años,ChatGPT,21,Vehículo propio,De 5 a 10 horas
+9,Nathan Ghenassia,nathan.ghenassia@ulead.ac.cr,2025-01-13 19:52:03,Nathan Ghenassia,nathan.ghenassia@ulead.ac.cr,Ciencia de Datos,Más de 31 cursos,DE 96 a 100,"Sí, área Ingeniería/Tecnología",No laboro,De 3500 a 4000 Dólares,1 año,ChatGPT,21,UBER,De 11 a 15 horas
+10,Bernal Aragon,bernalaragon@gmail.com,2025-01-13 19:50:51,Bernal Alberto Aragon Troyo,bernalaragon@gmail.com,Ciencia de Datos,Más de 31 cursos,De 86 a 90,"Sí, área Ingeniería/Tecnología",Sector Privado,De 1500 a 2000 Dólares,2 años,ChatGPT,21,Vehículo propio,De 5 a 10 horas
+11,Fabiola Díaz,fabiola.diaz@ulead.ac.cr,2025-01-13 19:53:15,Fabiola Díaz Garita,fabiola.diaz@ulead.ac.cr,Ciencia de Datos,De 25 a 30 cursos,DE 96 a 100,"Sí, otra área diferente",Sector Privado,De 3001 a 3500 Dólares,1 año,ChatGPT,19,UBER,De 5 a 10 horas
+12,Joel Ramirez,joel.ramirez@ulead.ac.cr,2025-01-13 19:50:37,Joel Ramirez,joel.ramirez@ulead.ac.cr,Ciencia de Datos,De 16 a 20 cursos,De 86 a 90,"Sí, área Ingeniería/Tecnología",Sector Privado,Más de 4001 Dólares,Más de 05 años,ChatGPT,21,"Vehículo propio;
+Transporte público (autobús/tren)",De 11 a 15 horas
+13,Andres Calvo,andres.calvo@ulead.ac.cr,2025-01-13 19:53:31,Andrés Calvo Arce,andres.calvo@ulead.ac.cr,Ciencia de Datos,Más de 31 cursos,,"No, no estudiaría otra",No laboro,"De 2001 a 2500 Dólares;
+De 2501 a 3000 Dólares;
+De 3001 a 3500 Dólares;
+De 3500 a 4000 Dólares;
+Más de 4001 Dólares",,"Gemini;
+ChatGPT",20,Vehículo prestado,De 5 a 10 horas
+14,Oscar Umaña Roque,oscar3092@gmail.com,2025-01-13 19:52:26,Oscar Umaña,oscar.umana@ulead.ac.cr,Ciencia de Datos,De 25 a 30 cursos,De 91 a 95,"Sí, otra área diferente",Sector Privado,Más de 4001 Dólares,Más de 05 años,ChatGPT,21,Vehículo propio,De 5 a 10 horas
+15,Valerie Espinoza,valerie.em.2004@gmail.com,2025-01-13 19:51:12,Valerie Espinoza Méndez,valerie.em.2004@gmail.com,Ciencia de Datos,Más de 31 cursos,DE 96 a 100,"Sí, Ciencias Empresariales/Comercio;
+Sí, área Ingeniería/Tecnología;
+Sí, otra área diferente",Sector Privado,De 2501 a 3000 Dólares,1 año,"Copilot;
+ChatGPT",20,Vehículo propio,De 5 a 10 horas
+16,Andrea Arias,andrea.arias@ulead.ac.cr,2025-01-13 19:51:11,andrea arias h ,andrea.arias@ulead.ac.cr,Ciencia de Datos,Más de 31 cursos,DE 96 a 100,"Sí, área Ingeniería/Tecnología",Sector Privado,Más de 4001 Dólares,4 a 5 años,ChatGPT,21,"UBER;
+Transporte público (autobús/tren)",De 5 a 10 horas
